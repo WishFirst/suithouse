@@ -14,7 +14,10 @@ Facebook: https://www.facebook.com/groups/safehomeTW
 
 
 開發環境、內容與流程：
-浮洲合宜住宅官方網站(自救會) 由 Wordpress 的Theme(主題)與Plugin(外掛)所組成
+浮洲合宜住宅官方網站(自救會) 由 Wordpress 的Theme(佈景主題)與Plugin(外掛)所組成
+所有的相關開發文件可以在下列網址中找尋答案
+http://codex.wordpress.org/zh-tw:Main_Page
+關於開發流程
 任何有關網頁介面部份將會被Merge到ui Branch
 而其他有關功能的部份將會被Merge到dev Branch
 最後則會將ui與dev Branches Merge到master Branch
